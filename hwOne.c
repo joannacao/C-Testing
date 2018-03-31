@@ -5,7 +5,7 @@
  *      Author: joann
  */
 int main(int argc, char **argv){
-	printf("Hello world\n");
+	printf("Goodbye, I finished my first CS 256 HW1.\n");
 }
 
 
